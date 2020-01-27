@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+# Compiled class file
+*.class
+
+# zip file
+*.war
+*.rar
+*.jar
